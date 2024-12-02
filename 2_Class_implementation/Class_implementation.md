@@ -36,7 +36,7 @@
 ## Greeting message will be added
 ```
 
-**추가 도전 과제:**
+**추가 설정:**
 
 1. 성별 입력 검증 (`male` 또는 `female` 제한).
 2. 나이대에 맞는 메시지를 출력하는 `greet()` 메서드 추가.
