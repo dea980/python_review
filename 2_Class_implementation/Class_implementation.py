@@ -33,13 +33,13 @@ class Person:
       print("Error: Age needs to be an integer type.")
   def greet(self):
     if self.age < 13:
-        message = f"Hello, {self.name}! You're a kid!"
+        message = f"Hello, {self.name}! What's up, kid!"
     elif 13 <= self.age < 20:
-        message = f"Hi, {self.name}! You're a teenager!"
+        message = f"Hi, {self.name}! What's up, Stu!"
     elif 20 <= self.age < 60:
-        message = f"Hello, {self.name}! You're an adult!"
+        message = f"Hello, {self.name}! What's up brah!"
     else:
-        message = f"Greetings, {self.name}! You're a senior citizen!"
+        message = f"Greetings, {self.name}! Nice to meet you, Sir!"
     print(message)
         
     
