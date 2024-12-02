@@ -122,5 +122,5 @@ python Data_Analysis_with_python.py
       python 3_Data_Analysis_with_python/Data_Analysis_with_python.py
       ```
       ```bash
-      python 3_Data_Analysis_with_python/Data_Analysis_with_python.ipynb
+      3_Data_Analysis_with_python/Data_Analysis_with_python.ipynb
       ```
