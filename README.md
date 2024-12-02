@@ -116,11 +116,11 @@ python Data_Analysis_with_python.py
       ```bash
       python 2_Class_implementation/Class_implementation.py
       ```
-    - **Data analysis:**
+    - **Data analysis:** 
+      - Go to 'https://nbviewer.org/'
+      - Copy bash that is below
       ```bash
-      #(Not recommended)
-      python 3_Data_Analysis_with_python/Data_Analysis_with_python.py
+      https://github.com/dea980/python_review/blob/main/3_Data_Analysis_with_python/Data_Analysis_with_python.ipynb
       ```
-      ```bash
-      3_Data_Analysis_with_python/Data_Analysis_with_python.ipynb
-      ```
+      - Put copied one at nbviewer.org
+      - Press **Go!** button
