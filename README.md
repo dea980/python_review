@@ -1,4 +1,4 @@
-# This Repository is a Personal practical folder  for **"Python & Python Library"**. 
+# This Repository is a Personal practical folder  for "Python & Python Library". 
 ### It includes basic Python functions and analysis skills.
 ---
 
