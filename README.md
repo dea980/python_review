@@ -91,14 +91,14 @@ python data_analysis_quiz.py
 
 ---
 
-## 🛠 used skillset
+## 🛠 Used skillset
 
 - **Python**: Language and data analytics environments.
 - **Pandas**: Data processing and analysis.
 - **Numpy**: Calculating figures.
 - **Random**: Random number generation for number matching game.
 
-## 🚀 실행 방법
+## 🚀 How to Run
 
 1. Repository cloning
     
