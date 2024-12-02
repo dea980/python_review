@@ -1,5 +1,5 @@
-# Repository is a Personal practice folder for "Python & Python Library". 
-## It contains basic Python functions and analysis.
+-  Repository is a Personal practice folder for "Python & Python Library". 
+-  It contains basic Python functions and analysis.
 ---
 
 ## 🗂 Directory structure.
@@ -44,8 +44,6 @@
 cd 1_Guess_Number
 python Guess_Number.py
 ```
-
----
 
 2️. Utilize Class() and Function()
 
