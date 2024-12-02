@@ -1,5 +1,5 @@
-# This Repository is a Personal practical folder  for "Python & Python Library". 
-### It includes basic Python functions and analysis skills.
+# Repository is a Personal practice folder for "Python & Python Library". 
+## It contains basic Python functions and analysis.
 ---
 
 ## 🗂 Directory structure.
@@ -69,7 +69,7 @@ python Class_implementation.py
 
 **Explain:**
 
-- Utilize Pandas and Numpy for Data analysis with this given data. `관서별_5대범죄_발생_및_검거.xlsx`, `pop_kor.csv`).
+- Utilize Pandas and Numpy for Data analysis with this given data. (`관서별_5대범죄_발생_및_검거.xlsx`, `pop_kor.csv`).
 
 **Agenda:**
 
