@@ -17,9 +17,9 @@ Original file is located at
 
 ### Agenda
 
-1. Find out current downloaded data and load
-2. Import the python library and preprocess the data
-3. Extract the data that required
+1. Find out the current downloaded data and load
+2. Import the Python library and preprocess the data
+3. Extract the data that is required
 
 ## 1. Load the data **Use Pandas and NumPy**.
 """
@@ -27,8 +27,10 @@ Original file is located at
 import pandas as pd
 
 ## First need to upload the data file
-## Crime data in excel form
+## Crime data in Excel form
 ## Notice: file directory, or link ...! Currently I don't get any access to it.
+## Currently directory is local.
+## It might need to change file directory
 district_crime = pd.read_excel('/content/관서별 5대범죄 발생 및 검거.xlsx')
 district_crime
 
