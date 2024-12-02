@@ -14,6 +14,7 @@
 │   └── Class_implementation.md            
 ├── 3_Data_Analysis_with_python
 │   ├── Data_Analysis_with_python.py        # Pandas와 Numpy를 활용한 데이터 분석 코드
+│   ├── Data_Analysis_with_python.ipyb        # Pandas와 Numpy를 활용한 데이터 분석 코드
 │   ├── Data_Analysis_with_python.md        
 │   ├── 관서별_5대범죄_발생_및_검거.xlsx # 경찰서별 5대 범죄 데이터
 │   └── pop_kor.csv                  # 인구 데이터
