@@ -1,5 +1,5 @@
-- This Repository is a Personal practical folder  for **"Python & Python Library"**. 
-- It includes basic Python functions and analysis skills.
+# This Repository is a Personal practical folder  for **"Python & Python Library"**. 
+### It includes basic Python functions and analysis skills.
 ---
 
 ## 🗂 Directory structure.
@@ -108,6 +108,15 @@ python data_analysis_quiz.py
     ```
     
 2. Run each directory:
-    - **Guess_Number:** `1_Guess_Number/Guess_Number.py`
-    - **Class and Function Implementation:** `2_Class_implementation/Class_implementation.py`
-    - **Data analysis:** `3_Data_Analysis_with_python/Data_Analysis_with_python.py`
+    - **Guess_Number:**
+      ```bash
+      1_Guess_Number/Guess_Number.py
+      ```
+    - **Class and Function Implementation:**
+      ```bash
+      2_Class_implementation/Class_implementation.py
+      ```
+    - **Data analysis:**
+      ```bash
+      3_Data_Analysis_with_python/Data_Analysis_with_python.py
+      ```
