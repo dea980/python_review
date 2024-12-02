@@ -17,7 +17,6 @@
 │   ├── Data_Analysis_with_python.md        
 │   ├── 관서별_5대범죄_발생_및_검거.xlsx # 경찰서별 5대 범죄 데이터
 │   └── pop_kor.csv                  # 인구 데이터
-├── LICENSE                          # 프로젝트 라이선스
 └── README.md                        # 프로젝트 소개 및 과제 설명
 ```
 
@@ -36,7 +35,7 @@
 **Character:**
 
 - Need to check the input range.
-- Check to the trials and restart or end the game.
+- Check the 3 trials and restart or end the game.
 
 **Run:**
 
@@ -86,7 +85,7 @@ python Class_implementation.py
 
 ```bash
 cd 3_Data_Analysis
-python data_analysis_quiz.py
+python Data_Analysis_with_python.py
 ```
 
 ---
@@ -103,20 +102,20 @@ python data_analysis_quiz.py
 1. Repository cloning
     
     ```bash
-    git clone https://github.com/dea980/python-library-assignment.git
-    cd python-library-assignment
+    git clone https://github.com/dea980/python-review.git
+    cd python_review
     ```
     
 2. Run each directory:
     - **Guess_Number:**
       ```bash
-      1_Guess_Number/Guess_Number.py
+      python 1_Guess_Number/Guess_Number.py
       ```
     - **Class and Function Implementation:**
       ```bash
-      2_Class_implementation/Class_implementation.py
+      python 2_Class_implementation/Class_implementation.py
       ```
     - **Data analysis:**
       ```bash
-      3_Data_Analysis_with_python/Data_Analysis_with_python.py
+      python 3_Data_Analysis_with_python/Data_Analysis_with_python.py
       ```
