@@ -1,5 +1,5 @@
-This Repository is a Personal practical folder  for **"Python & Python Library"**. 
-It includes basic Python functions and analysis skills.
+- This Repository is a Personal practical folder  for **"Python & Python Library"**. 
+- It includes basic Python functions and analysis skills.
 ---
 
 ## 🗂 Directory structure.
