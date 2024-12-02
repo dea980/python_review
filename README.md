@@ -1,2 +1,3 @@
-# python_review
-This repository is for reviewing the python
+# python_practice_project
+
+# this is Python practice for basic usage.
